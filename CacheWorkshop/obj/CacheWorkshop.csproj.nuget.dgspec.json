@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj": {}
+    "C:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj": {
+    "C:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj",
+        "projectUniqueName": "C:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj",
         "projectName": "CacheWorkshop",
-        "projectPath": "c:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj",
+        "projectPath": "C:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\CacheWorkshop.csproj",
         "packagesPath": "C:\\Users\\avitalof\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\obj\\",
+        "outputPath": "C:\\Users\\avitalof\\source\\repos\\CacheWorkshop\\CacheWorkshop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
